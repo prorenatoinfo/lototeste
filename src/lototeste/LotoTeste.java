@@ -1,6 +1,8 @@
 package lototeste;
 public class LotoTeste {
     public static void main(String[] args) {
+        
+       // isso é demais
        Arranjo ar= new Arranjo();
        ar.adicionar(2);
        ar.adicionar(5);
